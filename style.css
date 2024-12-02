@@ -1,0 +1,85 @@
+#sfondo_home{
+    background-image:url(sfondo.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 100vh;
+ }
+ #titolo{
+    color: rgb(14, 227, 14);
+    margin-left: 45%;
+    padding-top: 10%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 330%;
+
+ }
+ #titolo1{
+    text-align: center;
+    color: rgb(56, 141, 39);
+    padding-bottom: 3%;
+    margin-top: 2%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 330%;
+
+ }
+ .testo{
+    text-align: justify;
+    font-weight: 600;
+    font-size: 150%;
+    padding: 2%;
+ }
+ .immagine{
+    padding-left:2%;
+    width: 100%;
+ }
+ #icona{
+   margin-top:10%;
+ }
+ .tasti{
+    background-color: rgb(209, 209, 190);
+    border-color: rgb(209, 209, 190);
+    color: rgb(79, 110, 136);
+    border-radius: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+    margin-top: 10%;
+    padding-left:2%;
+    padding-right:2%;
+    padding: top 1%;
+    padding-left:2%;
+    margin-right: 3%;
+    box-shadow: 3px 3px 5px rgba(82, 20, 21, 0.418);
+
+ }
+ .tasti:focus{
+    box-shadow: inset 4px 4px 8px rgba(0, 0, 0, 0.3);
+    transform: scale(0.98);
+}
+.tasti1{
+    background-color: rgb(108, 180, 102);
+    border-color: rgb(108,180,102);
+    color: rgb(36, 38, 39);
+    border-radius: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 150%;
+    margin-top: 2%;
+    padding-left:2%;
+    padding-right:2%;
+    padding-top :1%;
+    padding-bottom: 2%;
+    margin-left: 40%;
+    height: 50%;
+    box-shadow: 3px 3px 5px rgba(82, 20, 21, 0.418);
+
+}
+.tasti1:focus{
+    box-shadow: inset 4px 4px 8px rgba(0, 0, 0, 0.3);
+    transform: scale(0.98);
+}
+ #terzo_tasto{
+    margin-left: 55%;
+    margin-top: 1%;
+ }
+ 
